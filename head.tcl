@@ -30,7 +30,7 @@ proc PB_CMD_HEAD_INFO2 {} {
     set hole "hole_making"
     set dri "drill"
 
-    #set lastname "_MPF"
+    
     #MOM_output_literal "%_N_$Name$lastname"
     #用于判断是否为T型刀
     set TC "Milling Tool-T Cutter"
