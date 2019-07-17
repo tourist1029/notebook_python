@@ -52,6 +52,9 @@ global mom_tool_diameter
 global mom_tool_corner1_radius
 
 if {![info exists mom_tool_corner1_radius]} {set mom_tool_corner1_radius 0}
+else {
+    
+}
 
 
 
