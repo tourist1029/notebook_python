@@ -34,7 +34,7 @@ proc PB_CMD_HEAD_INFO2 {} {
     #a change in clone plus
     #a change in original in clone
     #for test bare 
-    #second push for bare
+    #second push for bare, to teset if or not int the bare 
     #用于判断是否为T型刀
     set TC "Milling Tool-T Cutter"
     #用于判断是否为钻头
