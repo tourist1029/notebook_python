@@ -38,6 +38,7 @@ proc PB_CMD_HEAD_INFO2 {} {
     #third push for bare test
     #fourth push for bare test change
     #fifth push for bare test 
+    #sixth push for bare test
     #用于判断是否为T型刀
     set TC "Milling Tool-T Cutter"
     #用于判断是否为钻头
