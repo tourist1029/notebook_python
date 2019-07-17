@@ -36,6 +36,7 @@ proc PB_CMD_HEAD_INFO2 {} {
     #for test bare 
     #second push for bare, to teset if or not int the bare 
     #third push for bare test
+    #fourth push for bare test
     #用于判断是否为T型刀
     set TC "Milling Tool-T Cutter"
     #用于判断是否为钻头
