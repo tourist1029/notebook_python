@@ -31,7 +31,7 @@ proc PB_CMD_HEAD_INFO2 {} {
     set dri "drill"
 
     
-    #a change in clone
+    #a change in clone plus
     #a change in original 
     #用于判断是否为T型刀
     set TC "Milling Tool-T Cutter"
