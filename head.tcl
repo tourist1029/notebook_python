@@ -31,7 +31,7 @@ proc PB_CMD_HEAD_INFO2 {} {
     set dri "drill"
 
     
-    #MOM_output_literal "%_N_$Name$lastname"
+    
     #用于判断是否为T型刀
     set TC "Milling Tool-T Cutter"
     #用于判断是否为钻头
